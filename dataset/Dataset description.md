@@ -3,7 +3,7 @@ This project uses a dataset on [interactions and emotions for website user exper
 
 <details>
 
-<summary>Expand to see the datasets</summary>
+<summary># Expand to see the datasets</summary>
   
 | Dataset        | Corresponding website                   |
 | -------------- | --------------------------------------- |
