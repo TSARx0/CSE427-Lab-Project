@@ -59,6 +59,7 @@ Each of the 41 datasets has 18 columns. The columns are listed in the below tabl
 <summary>Expand to see the columns</summary>
 
 | Sunday | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Hour_of_the_day | Mouse_or_keyboard_interaction_to_the_website | Emotion_Joy | Emotion_Fear | Emotion_Disgust | Emotion_Sadness | Emotion_Anger | Emotion_Surprise | Emotion_Contempt | Emotion_Valance | Emotion_Engagement |
+|--------|--------|---------|-----------|----------|--------|----------|-----------------|----------------------------------------------|-------------|--------------|-----------------|-----------------|---------------|------------------|------------------|-----------------|--------------------|
 | `boolean` | `boolean` | `boolean` | `boolean` | `boolean` | `boolean` | `boolean` | `numeric` | `boolean` | `boolean` | `boolean` | `boolean` | `boolean` | `boolean` | `boolean` | `boolean` | `boolean` | `boolean` |
 
 
