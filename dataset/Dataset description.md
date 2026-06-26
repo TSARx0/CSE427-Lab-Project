@@ -1,6 +1,6 @@
 This project uses a dataset on [interactions and emotions for website user experience evaluation](https://springernature.figshare.com/articles/dataset/A_dataset_of_interactions_and_emotions_for_website_user_experience_evaluation/28489601?file=55522931). This dataset contains data of interacted websites by 19 users over the course of 30 days, and the provoked emotions of the users while interacting with these websites. This dataset contains user interaction and provoked emotions over a thousand website. This project utilizes 41 commonly used websites. For this project, the dataset is used in 2 different ways. One is for intial data prediction with my personal algorithms, second is for machine learning algorithms. For both of these cases, the dataset is further descirbed.
 
-### For data prediction with my personal algorithms, this dataset is modified and sectioned into 41 datasets. Each of the 41 dataset represents unique websites. The 41 datasets and their corresponding websites are listed in the below table:
+For data prediction with my personal algorithms, this dataset is modified and sectioned into 41 datasets. Each of the 41 dataset represents unique websites. The 41 datasets and their corresponding websites are listed in the below table:
 
 <details>
 
@@ -52,5 +52,13 @@ This project uses a dataset on [interactions and emotions for website user exper
 
 </details>
 
-Each of the 41 datasets has 18 columns. The columns 
+Each of the 41 datasets has 18 columns. The columns are listed in the below table:
+
+<details>
+
+<summary>Expand to see the columns</summary>
+
+| Dataset | Corresponding website  |
+
+</details>
 
